@@ -78,27 +78,34 @@ git clone https://github.com/Tarunkumar5129/notelock-backend.git ```
 
 ## 🖼️ Screenshots
 
-🔐 Login Page
-  
-📒 Dashboard with Notebooks
+### 🔐 Login Page  
+![Login](./screenshots/login.png)
 
-📝 Editor with Sections and Pages
+### 📒 Dashboard with Notebooks  
+![Dashboard](./screenshots/dashboard.png)
 
-🔐 Password Vault Interface
+### 📝 Editor with Sections and Pages  
+![Editor](./screenshots/editor.png)
 
-📌 Future Enhancements
-🔁 Real-time collaboration with WebSockets
+### 🔐 Password Vault Interface  
+![Vault](./screenshots/vault.png)
 
-🖼️ Image and file uploads with cloud storage
+---
 
-🔄 Version history and restore functionality
+## 📌 Future Enhancements
 
-📲 Mobile-responsive PWA with offline support
+- 🔁 Real-time collaboration with WebSockets  
+- 🖼️ Image and file uploads with cloud storage  
+- 🔄 Version history and restore functionality  
+- 📲 Mobile-responsive PWA with offline support  
+- 🧠 AI-based smart search and summarization  
 
-🧠 AI-based smart search and summarization
+---
 
-👨‍💻 Author
-Tarun Kumar
-📧 Email
-🔗 LinkedIn
-🔗 GitHub
+## 👨‍💻 Author
+
+**Tarun Kumar**  
+📧 [tk205475@gmail.com](mailto:tk205475@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-link)  
+🔗 [GitHub](https://github.com/Tarunkumar5129)
+
