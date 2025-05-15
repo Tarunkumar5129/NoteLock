@@ -16,7 +16,7 @@ NoteLock is a secure and feature-rich web application designed for modern note-t
 
 | Email               | Password   |
 |---------------------|------------|
-| tarun9999@gmail.com | tarun      | -> Note pin (9397)
+| tarun9999@gmail.com | tarun  -> Note pin (9397)  | 
 | root@demo.com       | root@123   |
 
 ---
