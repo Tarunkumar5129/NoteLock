@@ -63,19 +63,6 @@ NoteLock is a secure and feature-rich web application designed for modern note-t
 | 📁 Backend | Node.js API with Express & MongoDB | [notelock-backend](https://github.com/Tarunkumar5129/notelock-backend) |
 
 ---
-
-## ⚙️ Setup Instructions
-
-> Prerequisites: Node.js, MongoDB Atlas or local, Git
-
-### 1. Clone Repositories
-
-```bash
-git clone https://github.com/Tarunkumar5129/notelock-frontend.git
-git clone https://github.com/Tarunkumar5129/notelock-backend.git ```
-
----
-
 ## 🖼️ Screenshots
 
 ### 🔐 Login Page  
@@ -108,4 +95,16 @@ git clone https://github.com/Tarunkumar5129/notelock-backend.git ```
 📧 [tk205475@gmail.com](mailto:tk205475@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/your-link)  
 🔗 [GitHub](https://github.com/Tarunkumar5129)
+
+## ⚙️ Setup Instructions
+
+> Prerequisites: Node.js, MongoDB Atlas or local, Git
+
+### 1. Clone Repositories
+
+```bash
+git clone https://github.com/Tarunkumar5129/notelock-frontend.git
+git clone https://github.com/Tarunkumar5129/notelock-backend.git 
+
+
 
