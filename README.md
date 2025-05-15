@@ -72,9 +72,11 @@ NoteLock is a secure and feature-rich web application designed for modern note-t
 
 ```bash
 git clone https://github.com/Tarunkumar5129/notelock-frontend.git
-git clone https://github.com/Tarunkumar5129/notelock-backend.git
+git clone https://github.com/Tarunkumar5129/notelock-backend.git ```
 
-🖼️ Screenshots
+---
+
+## 🖼️ Screenshots
 
 🔐 Login Page
   
