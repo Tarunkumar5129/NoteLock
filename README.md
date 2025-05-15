@@ -93,7 +93,7 @@ NoteLock is a secure and feature-rich web application designed for modern note-t
 
 **Tarun Kumar**  
 📧 [tk205475@gmail.com](mailto:tk205475@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-link)  
+🔗 [LinkedIn](https://www.linkedin.com/in/tarun-kumar-287144169/)  
 🔗 [GitHub](https://github.com/Tarunkumar5129)
 
 ## ⚙️ Setup Instructions
